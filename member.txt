@@ -1,0 +1,1 @@
+<li <?php if($this->uri->segment(3) == "update_diskon"){echo "class='active'";} ?>><a href='<?php echo base_url() ?>admin/transaksi/update_diskon/1'> <i class="fa fa-scissors"></i> <span>Diskon Member</span> </a> </li>
