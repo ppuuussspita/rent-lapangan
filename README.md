@@ -38,6 +38,7 @@ Saya asumsikan Anda telah menginstall lampp stack, xampp, atau local development
   <li>Import database yang ada di dalam folder db</li>
   <li>Buka terminal ke direktori project dan jalankan perintah composer update</li>
   <li>Akses ke http://localhost/futsal</li>
+  <li>Ini contohnya yang</li>
 </ol>
 
 <h2>Cara Login</h2>
