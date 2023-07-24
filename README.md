@@ -38,7 +38,15 @@ Saya asumsikan Anda telah menginstall lampp stack, xampp, atau local development
   <li>Import database yang ada di dalam folder db</li>
   <li>Buka terminal ke direktori project dan jalankan perintah composer update</li>
   <li>Akses ke http://localhost/futsal</li>
-  <li>Ini contohnya yang</li>
+  <li>Lalu akan muncul tampilan layanan penyewaan futsal Blue Lock Arena</li>
+  <li>Tampilan awal terdapat menu seperti Home, Profil, Register, Login Admin, dan login untuk Customer</li>
+  <li>Dibawahnya terdapat beberapa pilihan lapangan untuk melakukan pembookingan lapangan futsal</li>
+  <li>Sebelum melakukan pembookingan lapangan, Customer login terlebih dahulu</li>
+  <li>Apabila sudah login customer bisa melakukan pembookingan dengan klik "Booking Sekarang"</li>
+  <li>Setelah menentukan lapangan, customer mengatur jadwal dengan memilih tanggal yang sesuai diinginkan, memilih jam mulai dan mengambil durasi yang diinginkan. Maka jam selesai dan Total harga akan otomatis muncul.</li>
+  <li>Bagian bawah detail booking terdapat pilihan Kosongkan, lanjut belanja(customer bisa menambah lapangan), dan checkout.</li>
+  <li>Apabila customer sudah melakukan pengisian data booking selanjutnya pilih checkout.</li>
+  <li>Akan muncul tampilan Transaksi selesai namun tercatat belum lunas. hal ini untuk melakukan pembayaran customer bila langsung menuju ke lapangan dengan menunjukkan bukti data transaksi pembookingan lapangan untuk melakukan pembayaran.</li>
 </ol>
 
 <h2>Cara Login</h2>
