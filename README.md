@@ -47,6 +47,9 @@ Saya asumsikan Anda telah menginstall lampp stack, xampp, atau local development
   <li>Bagian bawah detail booking terdapat pilihan Kosongkan, lanjut belanja(customer bisa menambah lapangan), dan checkout.</li>
   <li>Apabila customer sudah melakukan pengisian data booking selanjutnya pilih checkout.</li>
   <li>Akan muncul tampilan Transaksi selesai namun tercatat belum lunas. hal ini untuk melakukan pembayaran customer bila langsung menuju ke lapangan dengan menunjukkan bukti data transaksi pembookingan lapangan untuk melakukan pembayaran.</li>
+  <li>Untuk karyawan pembookingan lapangan futsal bisa langsung login pada menu Login Admin</li>
+  <li>setelah login admin terdapat tampilan beberapa menu seperti dashboard, transaksi (menampilkan data transaksi saat melakukan pembookingan), lapangan (mengupdate lapangan), kontak (terdapat kontak nomor admin), profil (mengupdate profil perusahaan), edit akun (mengedit akun si admin), user (data user), dan logout</li>
+  <li>Saat customer melakukan pembayaran, maka Admin memilih menu Transaksi lalu melunaskan dengan pilih tombol "Lunas". Untuk mencetak transaksi pilih "Detail" lalu pilih "Print".</li>
 </ol>
 
 <h2>Cara Login</h2>
